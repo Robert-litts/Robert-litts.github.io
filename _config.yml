@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: Robert Litts Site
+email: Robert.E.Litts@gmail.com
+description: My site. 
+
+github_username: github.com/Robert-litts
+markdown: kramdown
